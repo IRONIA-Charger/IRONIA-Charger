@@ -12,7 +12,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-IO-1793D1?style=for-the-badge&logo=wireshark&logoColor=white)
 
-* Faço Engenharia de Software por enquanto, porém o meu foco sempre vai ser em cibersegurança. Com a crescente massa de ataques cibernéticos em todo o mundo, essa foi uma área em que, no momento, fiquei meio dividido se eu realmente queria fazer isso mesmo, ou seguiria pelo caminho mais fácil (apesar de não ter nada fácil na vida).
+Faço Engenharia de Software por enquanto, porém o meu foco sempre vai ser em cibersegurança. Com a crescente massa de ataques cibernéticos em todo o mundo, essa foi uma área em que, no momento, fiquei meio dividido se eu realmente queria fazer isso mesmo, ou seguiria pelo caminho mais fácil (apesar de não ter nada fácil na vida).
 
 Entretanto, após ver o peso que essa área carrega nas costas e o quão gratificante poderia ser fazer parte dessa comunidade incrível, além, é claro, de ter aquele sentimento de ser a pessoa em quem as outras podem confiar, decidi seguir por esse caminho, por mais desafiador que seja.
 
